@@ -39,8 +39,6 @@ client.once("ready", async () => {
     tomorrow.setDate(tomorrow.getDate() + 1)
     const tomorrowFull = tomorrow.toISOString().slice(0, 10);
     const tomorrowMonthDay = tomorrowFull.slice(5, 10);
-    // console.log(`BIRB: ${new Date().toISOString()}`)
-    // console.log(`BIRB: ${new Date().toISOString().slice(0, 10)}`)
     const todayMonthDay = todayFull.slice(5, 10);
 
     // If ran today, exit
