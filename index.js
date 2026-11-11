@@ -52,7 +52,7 @@ client.once("ready", async () => {
         // Fetch target channel
         const channel = await client.channels.fetch(process.env.CHANNEL_ID);
         if (!channel) {
-            console.error("Error: Could not find discod channel, shutting down...")
+            console.error("Error: Could not find discord channel, shutting down...")
             client.destroy();
             process.exit(0);
         }
