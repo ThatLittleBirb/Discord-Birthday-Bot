@@ -1,6 +1,6 @@
 # A Discord Birthday Reminder Bot
 
-This bot will @ the user in a chosen channel to any birthdays today or the following day from the birthday.json datebase.
+This bot will @ the user in a chosen channel to any birthdays today or the following day from the birthday.json database.
 
 > NOTE: Do not make your .env data public! :D
 
