@@ -7,6 +7,7 @@ This is a lightweight bot that pings the user in a chosen channel to alert of an
 It is by any means totally improvable, I've used my sparce knowledge of JS, JSX, Python, and React to create this bot.
 
 > **NOTE:** Do not make your .env data public, and remove .example from any file names! :D
+> The format for adding birthdays is MM-DD, E.g. 12-27 (27th December)
 
 To set up automation of the script on PC start-up, and also sleep wakeup follow the steps below:
 
