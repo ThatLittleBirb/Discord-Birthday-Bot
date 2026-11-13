@@ -1,8 +1,6 @@
 # A Discord Birthday Reminder Bot
 
-I have ADHD and even when friends and families birthdays are in my calendar I still forget...
-
-This is why I created a bot to alert me on discord, a platform I use daily (cus im a degenerate).
+Remembering birthdays is hard for me, so I created a bot to remind me on discord, a platform I use daily (cus im a degenerate).
 
 This is a lightweight bot that pings the user in a chosen channel to alert of any birthdays that are happening on the present day or the next.
 
